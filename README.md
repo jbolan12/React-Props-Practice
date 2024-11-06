@@ -31,7 +31,7 @@ The Dynamic Contact Cards App uses a `contacts` data file to dynamically render 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/jbolan12/React-Props-Practice.git
 
 ## Navigate to the project directory:
 
